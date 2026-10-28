@@ -1,0 +1,6 @@
+EVENT_DATE,EVENT_TYPE,EVENTS_COUNT
+2026-01-20,login,7
+2026-01-20,signup,9
+2026-01-20,password_reset,7
+2026-01-20,logout,8
+2026-01-20,mfa_challenge,9
